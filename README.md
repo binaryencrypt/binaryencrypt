@@ -1,6 +1,6 @@
 # Anime I've Watched
 
-Here is a list of all the anime I have watched so far:
+Here is a list of all the anime I have watched so far (in alphabetical order):
 
 1. Akashic Records of a Bastard Magic Instructor  
 2. Alya Sometimes Hides Her Feelings in Russian  
@@ -13,12 +13,13 @@ Here is a list of all the anime I have watched so far:
 9. Dragon Ball Super  
 10. Dragon Ball Z  
 11. Jujutsu Kaisen  
-12. More Than a Married Couple, But Not Lovers  
-13. Naruto  
-14. Naruto Shippuden  
-15. One Piece  
-16. Redo of Healer  
-17. Solo Leveling  
-18. Vermeil in Gold  
+12. More Than a Married Couple, But Not Lovers
+13. My Dress Up Darling
+14. Naruto  
+15. Naruto Shippuden  
+16. One Piece  
+17. Redo of Healer  
+18. Solo Leveling  
+19. Vermeil in Gold  
 
 *This list will be updated as I watch more anime!*
