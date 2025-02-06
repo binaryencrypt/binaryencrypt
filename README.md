@@ -19,7 +19,8 @@ Here is a list of all the anime I have watched so far (in alphabetical order):
 15. Naruto Shippuden  
 16. One Piece  
 17. Redo of Healer  
-18. Solo Leveling  
-19. Vermeil in Gold  
+18. Solo Leveling
+19. Tunnel To Summer 
+20. Vermeil in Gold  
 
 *This list will be updated as I watch more anime!*
