@@ -1,20 +1,9 @@
 
-<div align="center">
+
 
 ![M0onyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0onyy&show_icons=true&theme=radical)
-
-<img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=m0onyy" alt="Profile Views"/> <img height="25" src="https://img.shields.io/github/stars/m0onyy?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-<p align="right">
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0onyy&layout=compact&theme=dark&hide_border=true)
-
 ![M0onyy's github stats](https://github-readme-stats.vercel.app/api?username=m0onyy&show_icons=true&hide_border=true&theme=dark)
-
-
-
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0onyy&layout=compact&theme=dark&hide_border=true)
 
 
 
