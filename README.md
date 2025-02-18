@@ -1,3 +1,14 @@
+
+<div align="center">
+
+![M0onyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0onyy&show_icons=true&theme=radical)
+
+<img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=m0onyy" alt="Profile Views"/> <img height="25" src="https://img.shields.io/github/stars/m0onyy?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+
+  
+
+
+
 # Anime I've Watched
 
 Here is a list of all the anime I have watched so far (in alphabetical order):
