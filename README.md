@@ -5,8 +5,7 @@
 
 <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=m0onyy" alt="Profile Views"/> <img height="25" src="https://img.shields.io/github/stars/m0onyy?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 <p align="right">
-  <img align="right" height="140" src="pfp.png?raw=true" alt="Logo" style="float: right; "/>
-</p>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0onyy&layout=compact&theme=dark&hide_border=true)
