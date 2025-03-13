@@ -16,26 +16,28 @@ Here is a list of all the anime I have watched so far (in alphabetical order):
 3. Alya Sometimes Hides Her Feelings in Russian  
 4. Attack on Titan  
 5. Boruto  
-6. Death Note  
-7. Demon Slayer  
-8. Dragon Ball  
-9. Dragon Ball GT  
-10. Dragon Ball Super  
-11. Dragon Ball Z  
-12. Horimiya  
-13. Horimiya - The Missing Piece  
-14. I Want to Eat Your Pancreas  
-15. Jujutsu Kaisen  
-16. More Than a Married Couple, But Not Lovers  
-17. My Dress-Up Darling  
-18. My Hero Academia  
-19. Naruto  
-20. Naruto Shippuden  
-21. One Piece  
-22. Rascal Does Not Dream of Bunny Girl Senpai  
-23. Redo of Healer  
-24. Solo Leveling  
-25. The Tunnel to Summer, the Exit of Goodbyes  
-26. Vermeil in Gold  
+6. Chainsaw Man  (still watching)
+7. Death Note  
+8. Demon Slayer  
+9. Dragon Ball  
+10. Dragon Ball GT  
+11. Dragon Ball Super  
+12. Dragon Ball Z  
+13. Horimiya  
+14. Horimiya - The Missing Piece  
+15. I Want to Eat Your Pancreas  
+16. Jujutsu Kaisen  
+17. More Than a Married Couple, But Not Lovers  
+18. My Dress-Up Darling  
+19. My Hero Academia  
+20. Naruto  
+21. Naruto Shippuden  
+22. One Piece  
+23. Rascal Does Not Dream of Bunny Girl Senpai  
+24. Redo of Healer  
+25. Solo Leveling  
+26. The Tunnel to Summer, the Exit of Goodbyes  
+27. Tokyo Ghoul  (still watching)
+28. Vermeil in Gold  
 
 *This list will be updated as I watch more anime!*
