@@ -7,7 +7,7 @@
 
 
 
-# Anime I've Watched  
+## Anime I've Watched  
 
 Here is a list of all the anime I have watched so far (in alphabetical order):  
 
@@ -16,7 +16,7 @@ Here is a list of all the anime I have watched so far (in alphabetical order):
 3. Alya Sometimes Hides Her Feelings in Russian  
 4. Attack on Titan  
 5. Boruto  
-6. Chainsaw Man  (still watching)
+6. Chainsaw Man  
 7. Death Note  
 8. Demon Slayer  
 9. Dragon Ball  
@@ -37,7 +37,6 @@ Here is a list of all the anime I have watched so far (in alphabetical order):
 24. Redo of Healer  
 25. Solo Leveling  
 26. The Tunnel to Summer, the Exit of Goodbyes  
-27. Tokyo Ghoul  (still watching)
-28. Vermeil in Gold  
+27. Vermeil in Gold  
 
 *This list will be updated as I watch more anime!*
