@@ -32,8 +32,12 @@ Here is a list of all the anime I have watched so far (in alphabetical order):
 25. Rascal Does Not Dream of Bunny Girl Senpai  
 26. Redo of Healer  
 27. Solo Leveling  
-28. The Eminence in Shadow  
-29. The Tunnel to Summer, the Exit of Goodbyes  
-30. Vermeil in Gold  
+28. The Disastrous Life of Saiki K.  
+29. The Disastrous Life of Saiki K. 2  
+30. The Disastrous Life of Saiki K.: Final Arc  
+31. The Disastrous Life of Saiki K.: Reawakened  
+32. The Eminence in Shadow  
+33. The Tunnel to Summer, the Exit of Goodbyes  
+34. Vermeil in Gold  
 
 *This list will be updated as I watch more anime!*  
