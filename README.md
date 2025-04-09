@@ -47,7 +47,6 @@ Here is a list of all the anime I have watched so far (in alphabetical order):
 40. The Eminence in Shadow (Kage no Jitsuryokusha ni Naritakute)  
 41. The Tunnel to Summer, the Exit of Goodbyes (Natsu e no Tunnel, Sayonara no Deguchi)  
 42. Vermeil in Gold (Kinsou no Vermeil)  
-43. Your Lie in April (Shigatsu wa Kimi no Uso)  STILL WATCHING!!
-44. I Want to Eat Your Pancreas  
+43. Your Lie in April (Shigatsu wa Kimi no Uso)  
 
 *This list will be updated as I watch more anime!*  
