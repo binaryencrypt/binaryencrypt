@@ -42,7 +42,7 @@ Here is a list of all the anime I have watched so far (in alphabetical order):
 35. Rascal Does Not Dream of a Dreaming Girl  
 36. Redo of Healer  
 37. Solo Leveling  
-38. The 100 Girlfriends Who Really, Really, Really, Really, Really Love You  STILL WATCHING!!  
+38. The 100 Girlfriends Who Really, Really, Really, Really, Really Love You  
 39. The Angel Next Door Spoils Me Rotten  
 40. The Disastrous Life of Saiki K.  
 41. The Disastrous Life of Saiki K. 2  
