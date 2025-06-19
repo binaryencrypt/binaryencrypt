@@ -1,5 +1,5 @@
-![binaryencrypt's github stats](https://github-readme-stats.vercel.app/api?username=binaryencrypt&show_icons=true&hide_border=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binaryencrypt&layout=compact&theme=dark&hide_border=true)  
+![m's github stats](https://github-readme-stats.vercel.app/api?username=m0onyy&show_icons=true&hide_border=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0onyy&layout=compact&theme=dark&hide_border=true)  
 
 ## Anime I've Watched
 
